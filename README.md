@@ -26,7 +26,7 @@ I’m building **Mōmap**, an AI-driven workflow intelligence layer that helps s
 ---
 
 ### Smart Maps — AI Clarity in One Sketch  
-[**Smart Maps**](#) (link your Beehiiv) is my weekly napkin-sketch newsletter for **non-technical leaders** who need AI to make sense:
+[**Smart Maps**](#) is my weekly napkin-sketch newsletter for **non-technical leaders** who need AI to make sense:
 
 - One sketch  
 - One insight  
