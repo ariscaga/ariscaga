@@ -12,7 +12,8 @@ My work focuses on why most AI initiatives fail at the organizational level, and
 
 
 ## Current Focus
-OAI³ Framework** — Organizational Ambient Intelligence Infrastructure - Intelligence flow and decision architecture - How intelligence moves, blocks, and degrades inside organizations - AI as interface layer, not adoption target **CosentriQ** — Applied OAI³ in real organizational contexts ```
+OAI³ Framework** — Organizational Ambient Intelligence Infrastructure - Intelligence flow and decision architecture - How intelligence moves, blocks, and degrades inside organizations - AI as interface layer, not adoption target 
+**CosentriQ** — Applied OAI³ in real organizational contexts
 
 ## Background
 - Founder, CosentriQ  
