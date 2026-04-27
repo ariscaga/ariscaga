@@ -90,11 +90,11 @@ AI Infrastructure · Product Decision Systems · Human Intelligence · Organizat
 
 ## Connect
 
-🌐 ariana-abramson.com
+W | ariana-abramson.com
 
-💼 LinkedIn: linkedin.com/in/arianaabramson
+Socials |  LinkedIn: linkedin.com/in/arianaabramson 
 
-📧 [ariana.abramson@gmail.com](mailto:ariana.abramson@gmail.com)
+E |  [ariana.abramson@gmail.com](mailto:ariana.abramson@gmail.com)
 
 
 
