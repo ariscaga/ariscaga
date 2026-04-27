@@ -2,33 +2,97 @@
   <img src="git-banner.png" alt="AI Infrastructure Expert Banner" />
 </p>
 
-# Hi, I'm Ariana (@ariscaga)
+# Hi, I’m Ariana (@ariscaga)
 
-**Creator of Organizational Ambient Intelligence (OAI³) | Founder, CosentriQ**
+**Founder, CosentriQ + D15 | Building intelligent infrastructure for the AI era**
 
-I study organizations as living intelligence systems—and explore how AI can function as an interface to that intelligence rather than a tool to be “adopted.”
+I build the layer underneath.
 
-My work focuses on why most AI initiatives fail at the organizational level, and what becomes possible when intelligence is made ambient, integrated, and usable inside real workflows.
+My work focuses on the decision systems, human intelligence infrastructure, and product architecture that determine whether AI products, organizations, and emerging systems actually work before they scale.
 
+Most systems don’t fail because the technology is impossible.
+They fail because the underlying model, judgment layer, or human infrastructure was never designed well enough to hold.
+
+I’m building systems that fix that.
+
+---
 
 ## Current Focus
-OAI³ Framework** — Organizational Ambient Intelligence Infrastructure - Intelligence flow and decision architecture - How intelligence moves, blocks, and degrades inside organizations - AI as interface layer, not adoption target 
-**CosentriQ** — Applied OAI³ in real organizational contexts
+
+### **CosentriQ** — Product Decision Infrastructure
+
+A governed Product Intelligence System for AI-driven organizations. Built around CoTerminal, CosentriQ transforms fragmented product, market, financial, and AI-system signals into structured decisions:
+**Refine · Pivot · Rebuild · Validate · Scale**
+
+### **D15** — Human Intelligence Infrastructure
+
+Building the human reasoning infrastructure powering modern AI systems — where verified human judgment becomes model-ready, economically participatory, and strategically deployable at scale.
+
+### **OAI³ / Intelligence Infrastructure Research**
+
+Exploring how intelligence flows, compounds, degrades, and governs across organizations, systems, and communities.
+
+---
+
+## Operating Discipline
+
+### Model first
+
+Map the system before building.
+
+### Stress-test before scale
+
+Find structural failure before the market does.
+
+### Build substrate, not surface
+
+Infrastructure compounds. Features alone don’t.
+
+### Compound intelligence, don’t reset
+
+Systems should retain and evolve judgment over time.
+
+---
 
 ## Background
-- Founder, CosentriQ  
-- Previously scaled DivySci to $1M+ ARR in   
-- Backed by Google, AWS, and National Science Foundation  
-- Work spans organizational intelligence, AI systems, and decision infrastructure  
+
+* Second-time founder
+* Founder, CosentriQ + D15
+* Previously built DivySci to $1M+ ARR+
+* Columbia University (Information & Knowledge Strategy)
+* Computer Science background
+* NSF-funded AI research (2x)
+* Backed by Google for Startups, AWS, Camelback Ventures, Black Ambition, and Roddenberry Foundation
+
+---
 
 ## Technical Context
-**AI / Systems:** LLMs · RAG · Multi-agent systems · Decision modeling  
-**Backend:** Python · Node.js · PostgreSQL  
-**Frontend:** React · TypeScript  
 
-**Connect**
-🌐 https://ariana-abramson.com  
-💼 LinkedIn: https://linkedin.com/in/arianaabramson  
-📧 Email: ariana@cosentriq.com
+**Systems / AI:**
+LLMs · RAG · Decision Infrastructure · Human Intelligence Systems · Multi-agent workflows
+
+**Backend:**
+Python · Node.js · PostgreSQL · Supabase
+
+**Frontend:**
+React · TypeScript
+
+**Core Themes:**
+AI Infrastructure · Product Decision Systems · Human Intelligence · Organizational Systems
+
+---
+
+## Philosophy
+
+**Build the layer underneath, not the surface on top.**
+
+---
+
+## Connect
+
+🌐 ariana-abramson.com
+💼 LinkedIn: linkedin.com/in/arianaabramson
+📧 [ariana.abramson@gmail.com](mailto:ariana.abramson@gmail.com)
+
 
 
