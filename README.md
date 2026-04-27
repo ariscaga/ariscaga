@@ -58,7 +58,7 @@ Systems should retain and evolve judgment over time.
 
 * Second-time founder
 * Founder, CosentriQ + D15
-* Previously built DivySci to $1M+ ARR+
+* Previously built DivySci to $4M+ ARR+
 * Columbia University (Information & Knowledge Strategy)
 * Computer Science background
 * NSF-funded AI research (2x)
@@ -91,7 +91,9 @@ AI Infrastructure · Product Decision Systems · Human Intelligence · Organizat
 ## Connect
 
 🌐 ariana-abramson.com
+
 💼 LinkedIn: linkedin.com/in/arianaabramson
+
 📧 [ariana.abramson@gmail.com](mailto:ariana.abramson@gmail.com)
 
 
