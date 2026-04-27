@@ -90,7 +90,7 @@ AI Infrastructure · Product Decision Systems · Human Intelligence · Organizat
 
 ## Connect
 
-W | ariana-abramson.com
+W | www.arianaabramson.com
 
 Socials |  LinkedIn: linkedin.com/in/arianaabramson 
 
