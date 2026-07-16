@@ -4,97 +4,126 @@
 
 # Hi, I’m Ariana (@ariscaga)
 
-**Founder, CosentriQ + D15 | Building intelligent infrastructure for the AI era**
+**Founder of CosentriQ | Building human-centered AI evaluation infrastructure**
 
-I build the layer underneath.
+I build systems that help AI teams understand whether their products will actually work for people in the real world.
 
-My work focuses on the decision systems, human intelligence infrastructure, and product architecture that determine whether AI products, organizations, and emerging systems actually work before they scale.
+My work focuses on the gap between technical model performance and human outcomes: how people understand, trust, adopt, and act on AI-generated outputs.
 
-Most systems don’t fail because the technology is impossible.
-They fail because the underlying model, judgment layer, or human infrastructure was never designed well enough to hold.
+Because an AI system can produce a technically correct response and still create confusion, inappropriate trust, over-reliance, failed adoption, or poor real-world decisions.
 
-I’m building systems that fix that.
+I’m building the evaluation infrastructure to surface those risks before they scale.
 
 ---
 
 ## Current Focus
 
-### **CosentriQ** — Product Decision Infrastructure
+### **CosentriQ** — Human-Centered AI Evaluation
 
-A governed Product Intelligence System for AI-driven organizations. Built around CoTerminal, CosentriQ transforms fragmented product, market, financial, and AI-system signals into structured decisions:
-**Refine · Pivot · Rebuild · Validate · Scale**
+CosentriQ combines agentic simulation with structured human validation to evaluate how people understand, trust, adopt, and safely act on AI outputs—surfacing trust, adoption, safety, and decision risks that technical evaluations miss.
 
-### **D15** — Human Intelligence Infrastructure
+The platform helps AI teams evaluate the human side of model behavior across different users, scenarios, and real-world contexts from pilot to production.
 
-Building the human reasoning infrastructure powering modern AI systems — where verified human judgment becomes model-ready, economically participatory, and strategically deployable at scale.
+CosentriQ turns those signals into structured evaluation sprints that help teams refine model behavior before launching, expanding, or scaling their AI products.
 
-### **OAI³ / Intelligence Infrastructure Research**
+### **DollarFifteen (D15)** — Human Validation Network
 
-Exploring how intelligence flows, compounds, degrades, and governs across organizations, systems, and communities.
+DollarFifteen is the paid contributor network powering CosentriQ’s human validation layer.
+
+Contributors evaluate AI outputs, interactions, and real-world scenarios through structured, mobile-first tasks. Their judgment helps surface behavioral patterns, interpretation gaps, and real-world risks that technical evaluations and agentic simulations may not fully capture.
+
+D15 is designed to make human evaluation more representative, economically participatory, and operationally useful for AI development.
+
+### **Human × Agentic Evaluation**
+
+I am developing an evaluation approach that compares predicted human behavior from agentic simulations with observed human responses.
+
+The gap between those signals helps teams identify where simulated expectations diverge from real-world interpretation, trust, behavior, and decision-making.
+
+This is the foundation of CosentriQ’s **Signal Gap** intelligence.
 
 ---
 
-## Operating Discipline
+## How I Build
 
-### Model first
+### Model the system first
 
-Map the system before building.
+Understand the users, decisions, incentives, constraints, and failure conditions before building the interface.
 
 ### Stress-test before scale
 
-Find structural failure before the market does.
+Surface structural, behavioral, safety, and human risks before the market discovers them.
 
-### Build substrate, not surface
+### Evaluate beyond technical correctness
 
-Infrastructure compounds. Features alone don’t.
+An AI output must not only be accurate. People must also be able to understand it, trust it appropriately, and act on it safely.
 
-### Compound intelligence, don’t reset
+### Combine simulated and human signal
 
-Systems should retain and evolve judgment over time.
+Agentic simulations can predict how different users may respond. Human validation reveals what actually happens.
+
+Both signals matter. The gap between them is valuable intelligence.
+
+### Build infrastructure that compounds
+
+Every evaluation should strengthen the system, improve future decisions, and deepen understanding over time.
 
 ---
 
 ## Background
 
 * Second-time founder
-* Founder, CosentriQ + D15
-* Previously built DivySci to $4M+ ARR+
-* Columbia University (Information & Knowledge Strategy)
-* Computer Science background
-* NSF-funded AI research (2x)
-* Backed by Google for Startups, AWS, Camelback Ventures, Black Ambition, and Roddenberry Foundation
+* Founder and CEO of CosentriQ
+* Previously built DivySci into a multimillion-dollar company serving more than 10,000 users
+* M.S. in Information and Knowledge Strategy, Columbia University
+* B.S. in Computer Science, Pace University
+* Two-time NSF-funded founder
+* Previously supported by Google for Startups, AWS, Camelback Ventures, Black Ambition, and the Roddenberry Foundation
 
 ---
 
 ## Technical Context
 
-**Systems / AI:**
-LLMs · RAG · Decision Infrastructure · Human Intelligence Systems · Multi-agent workflows
+**AI and Evaluation**
 
-**Backend:**
+LLMs · RAG · Agentic Systems · Human Evaluation · AI Safety · Model Behavior · Multi-Agent Workflows
+
+**Backend**
+
 Python · Node.js · PostgreSQL · Supabase
 
-**Frontend:**
-React · TypeScript
+**Frontend**
 
-**Core Themes:**
-AI Infrastructure · Product Decision Systems · Human Intelligence · Organizational Systems
+React · TypeScript · Next.js
+
+**Product and Systems**
+
+AI Evaluation Infrastructure · Human Signal Systems · AI Product Strategy · Decision Systems · Product Architecture
+
+---
+
+## Core Themes
+
+Human-Centered AI Evaluation · Human × Agentic Evaluation · AI Safety · Trust and Decision Risk · Human Signal Infrastructure · Responsible Model Behavior
 
 ---
 
 ## Philosophy
 
-**Build the layer underneath, not the surface on top.**
+**The sandbox works. The real world is messy.**
+
+I build the layer that helps AI teams understand the difference.
 
 ---
 
 ## Connect
 
-W | www.arianaabramson.com
+**Website:** [www.arianaabramson.com](http://www.arianaabramson.com)
 
-Socials |  LinkedIn: linkedin.com/in/arianaabramson 
+**LinkedIn:** linkedin.com/in/arianaabramson
 
-E |  [ariana.abramson@gmail.com](mailto:ariana.abramson@gmail.com)
+**Email:** [ariana.abramson@gmail.com](mailto:ariana.abramson@gmail.com)
+
 
 
 
