@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="git-banner.png" alt="AI Infrastructure Expert Banner" />
+  <img src="Github.png" alt="AI Infrastructure Expert Banner" />
 </p>
 
 # Hi, I’m Ariana (@ariscaga)
