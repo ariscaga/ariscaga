@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="Github.png" alt="AI Infrastructure Expert Banner" />
+<p align="quorloop-github.png">
+  <img src="Github.png" alt="Human-AI Evaluation Banner" />
 </p>
 
 # Hi, I’m Ariana (@ariscaga)
