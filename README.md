@@ -23,12 +23,12 @@ Our approach combines:
 - Comparative evaluation: Assessing whether a proposed change improves the interaction.
 The goal is to turn findings into concrete product changes and evidence about whether those changes help.
 ---
-### Community AI Evaluator Network
+### **Community AI Evaluator Network**
 We’re building a paid community AI evaluator network in New York City, training people to contribute their perspectives through structured, mobile-first evaluation tasks.
 Contributors help us examine how people interpret AI responses, choose their next steps, and recognize when they need more information or human support.
 Their participation brings community experience into AI development and creates paid opportunities to contribute to how these products are evaluated.
 ---
-###Human × Agentic Evaluation
+### **Human × Agentic Evaluation**
 I’m developing methods to compare predicted behavior from agentic simulations with observed responses in human evaluations.
 We call this difference the Signal Gap: where simulated expectations diverge from what participants understand or do in a defined test.
 My research interests include cohort behavior estimation, simulation calibration, and whether findings transfer across workflows. Simulation predictions require human comparison; results from one cohort or test do not automatically generalize to another.
