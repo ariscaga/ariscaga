@@ -2,83 +2,60 @@
   <img src="Github.png" alt="AI Infrastructure Expert Banner" />
 </p>
 
-# Hi, I’m Ariana (@ariscaga)
+#Hi, I’m Ariana (@ariscaga)
 
-**Founder of CosentriQ | Building human-centered AI evaluation infrastructure**
-
-I build systems that help AI teams understand whether their products will actually work for people in the real world.
-
-My work focuses on the gap between technical model performance and human outcomes: how people understand, trust, adopt, and act on AI-generated outputs.
-
-Because an AI system can produce a technically correct response and still create confusion, inappropriate trust, over-reliance, failed adoption, or poor real-world decisions.
-
-I’m building the evaluation infrastructure to surface those risks before they scale.
-
+**Founder of QuorLoop | Building human–AI evaluation infrastructure
 ---
 
+Before people interact with your AI, include them first.
+I build systems that help AI teams evaluate whether people can use, understand, and appropriately rely on their products—not just whether the model produces a good answer.
+
+An AI response can be technically correct while leaving someone unsure what it means or what to do next. My work focuses on those interactions: confusion, task abandonment, misplaced reliance, and difficulty recognizing when human help is needed.
+Through QuorLoop, I’m building infrastructure that connects scenario testing, agentic simulation, and community evaluation to product decisions—and helps teams test whether their changes improve the experience.
+---
 ## Current Focus
-
-### **CosentriQ** — Human-Centered AI Evaluation
-
-CosentriQ combines agentic simulation with structured human validation to evaluate how people understand, trust, adopt, and safely act on AI outputs—surfacing trust, adoption, safety, and decision risks that technical evaluations miss.
-
-The platform helps AI teams evaluate the human side of model behavior across different users, scenarios, and real-world contexts from pilot to production.
-
-CosentriQ turns those signals into structured evaluation sprints that help teams refine model behavior before launching, expanding, or scaling their AI products.
-
-### **DollarFifteen (D15)** — Human Validation Network
-
-DollarFifteen is the paid contributor network powering CosentriQ’s human validation layer.
-
-Contributors evaluate AI outputs, interactions, and real-world scenarios through structured, mobile-first tasks. Their judgment helps surface behavioral patterns, interpretation gaps, and real-world risks that technical evaluations and agentic simulations may not fully capture.
-
-D15 is designed to make human evaluation more representative, economically participatory, and operationally useful for AI development.
-
-### **Human × Agentic Evaluation**
-
-I am developing an evaluation approach that compares predicted human behavior from agentic simulations with observed human responses.
-
-The gap between those signals helps teams identify where simulated expectations diverge from real-world interpretation, trust, behavior, and decision-making.
-
-This is the foundation of CosentriQ’s **Signal Gap** intelligence.
-
+### **QuorLoop — Evaluation for Consequential AI**
+QuorLoop helps teams evaluate specific human–AI interactions in products that shape access to healthcare, public services and benefits, legal services, adult education, and work.
+Our approach combines:
+- Realistic scenarios: Situations grounded in users’ goals, constraints, missing information, and decisions.
+- Agentic simulation: Predicted user responses that help explore possible interaction problems and prioritize questions for testing.
+- Relevant human evaluation: Structured testing with people whose experiences fit the selected workflow.
+- Comparative evaluation: Assessing whether a proposed change improves the interaction.
+The goal is to turn findings into concrete product changes and evidence about whether those changes help.
 ---
-
+### Community AI Evaluator Network
+We’re building a paid community AI evaluator network in New York City, training people to contribute their perspectives through structured, mobile-first evaluation tasks.
+Contributors help us examine how people interpret AI responses, choose their next steps, and recognize when they need more information or human support.
+Their participation brings community experience into AI development and creates paid opportunities to contribute to how these products are evaluated.
+---
+###Human × Agentic Evaluation
+I’m developing methods to compare predicted behavior from agentic simulations with observed responses in human evaluations.
+We call this difference the Signal Gap: where simulated expectations diverge from what participants understand or do in a defined test.
+My research interests include cohort behavior estimation, simulation calibration, and whether findings transfer across workflows. Simulation predictions require human comparison; results from one cohort or test do not automatically generalize to another.
+---
 ## How I Build
+1. Start with the interaction
+2. Define who the product serves, what they are trying to accomplish, and the decisions, constraints, and failure conditions involved.
+3. Include people early
+4. Bring relevant people into evaluation before launch and continue learning as the product changes.
+5. Evaluate beyond technical correctness
+6. Examine whether people understand a response, can take an appropriate next step, and know when to verify it or seek human help.
+7. Connect simulated and observed behavior
+8. Use simulations to explore hypotheses. Use human evaluation to observe responses in the test context and examine where predictions hold or break down.
+9. Test the change
+10. Translate findings into proposed improvements, then evaluate whether the revised interaction performs better.
+11. Make evidence reusable
+12. Preserve scenarios, methods, findings, and their limits so each evaluation can inform future work without overstating what transfers.
 
-### Model the system first
-
-Understand the users, decisions, incentives, constraints, and failure conditions before building the interface.
-
-### Stress-test before scale
-
-Surface structural, behavioral, safety, and human risks before the market discovers them.
-
-### Evaluate beyond technical correctness
-
-An AI output must not only be accurate. People must also be able to understand it, trust it appropriately, and act on it safely.
-
-### Combine simulated and human signal
-
-Agentic simulations can predict how different users may respond. Human validation reveals what actually happens.
-
-Both signals matter. The gap between them is valuable intelligence.
-
-### Build infrastructure that compounds
-
-Every evaluation should strengthen the system, improve future decisions, and deepen understanding over time.
-
----
-
-## Background
-
-* Second-time founder
-* Founder and CEO of CosentriQ
-* Previously built DivySci into a multimillion-dollar company serving more than 10,000 users
+--- 
+##Background
+* Second-time founder; founder of QuorLoop 
+* Previously founded DivySci, a multimillion-dollar company serving more than 10,000 users
+* Blue Ridge Labs fellow at the Robin Hood Foundation
 * M.S. in Information and Knowledge Strategy, Columbia University
 * B.S. in Computer Science, Pace University
 * Two-time NSF-funded founder
-* Previously supported by Google for Startups, AWS, Camelback Ventures, Black Ambition, and the Roddenberry Foundation
+* Support across my founder journey from Google for Startups, AWS, Camelback Ventures, Black Ambition, and the Roddenberry Foundation
 
 ---
 
@@ -86,7 +63,7 @@ Every evaluation should strengthen the system, improve future decisions, and dee
 
 **AI and Evaluation**
 
-LLMs · RAG · Agentic Systems · Human Evaluation · AI Safety · Model Behavior · Multi-Agent Workflows
+LLMs · RAG · Agentic Systems · Scenario Testing · Human Evaluation · Simulation Calibration · Comparative Evaluation
 
 **Backend**
 
@@ -98,7 +75,7 @@ React · TypeScript · Next.js
 
 **Product and Systems**
 
-AI Evaluation Infrastructure · Human Signal Systems · AI Product Strategy · Decision Systems · Product Architecture
+Human–AI Interaction · AI Evaluation Infrastructure · Cohort Behavior Estimation · AI Product Strategy · Product Architecture
 
 ---
 
@@ -108,13 +85,10 @@ Human-Centered AI Evaluation · Human × Agentic Evaluation · AI Safety · Trus
 
 ---
 
-## Philosophy
 
-**The sandbox works. The real world is messy.**
-
-I build the layer that helps AI teams understand the difference.
-
----
+## Philosophy 
+### The people an AI product is meant to serve should help shape how it is evaluated.
+I build the systems that make that participation useful for product decisions.
 
 ## Connect
 
@@ -123,6 +97,8 @@ I build the layer that helps AI teams understand the difference.
 **LinkedIn:** linkedin.com/in/arianaabramson
 
 **Email:** [ariana.abramson@gmail.com](mailto:ariana.abramson@gmail.com)
+
+
 
 
 
