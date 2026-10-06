@@ -22,18 +22,25 @@ Our approach combines:
 - Relevant human evaluation: Structured testing with people whose experiences fit the selected workflow.
 - Comparative evaluation: Assessing whether a proposed change improves the interaction.
 The goal is to turn findings into concrete product changes and evidence about whether those changes help.
----
-### **Community AI Evaluator Network**
+___
+
+### Community AI Evaluator Network
 
 We’re building a paid community AI evaluator network in New York City, training people to contribute their perspectives through structured, mobile-first evaluation tasks.
+
 Contributors help us examine how people interpret AI responses, choose their next steps, and recognize when they need more information or human support.
+
 Their participation brings community experience into AI development and creates paid opportunities to contribute to how these products are evaluated.
+
 ---
-### **Human × Agentic Evaluation**
+
+### Human × Agentic Evaluation
 
 I’m developing methods to compare predicted behavior from agentic simulations with observed responses in human evaluations.
+
 We call this difference the Signal Gap: where simulated expectations diverge from what participants understand or do in a defined test.
 My research interests include cohort behavior estimation, simulation calibration, and whether findings transfer across workflows. Simulation predictions require human comparison; results from one cohort or test do not automatically generalize to another.
+
 ---
 ## How I Build
 1. Start with the interaction
@@ -50,7 +57,7 @@ My research interests include cohort behavior estimation, simulation calibration
 12. Preserve scenarios, methods, findings, and their limits so each evaluation can inform future work without overstating what transfers.
 
 --- 
-##Background
+## Background
 * Second-time founder; founder of QuorLoop 
 * Previously founded DivySci, a multimillion-dollar company serving more than 10,000 users
 * Blue Ridge Labs fellow at the Robin Hood Foundation
@@ -96,7 +103,7 @@ I build the systems that make that participation useful for product decisions.
 
 **Website:** [www.arianaabramson.com](http://www.arianaabramson.com)
 
-**LinkedIn:** linkedin.com/in/arianaabramson
+**LinkedIn:** http://linkedin.com/in/arianaabramson
 
 **Email:** [ariana.abramson@gmail.com](mailto:ariana.abramson@gmail.com)
 
