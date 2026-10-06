@@ -1,5 +1,5 @@
-<p align="quorloop-github.png">
-  <img src="Github.png" alt="Human-AI Evaluation Banner" />
+<p align="center">
+  <img src="quorloop-github.png" alt="Human-AI Evaluation Banner" />
 </p>
 
 # Hi, I’m Ariana (@ariscaga)
