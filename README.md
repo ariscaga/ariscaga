@@ -4,14 +4,14 @@
 
 # Hi, I’m Ariana (@ariscaga)
 
-**Founder of QuorLoop | Building human–AI evaluation infrastructure**
----
+### **Founder of QuorLoop | Building human–AI evaluation infrastructure**
 
 Before people interact with your AI, include them first.
 I build systems that help AI teams evaluate whether people can use, understand, and appropriately rely on their products—not just whether the model produces a good answer.
 
 An AI response can be technically correct while leaving someone unsure what it means or what to do next. My work focuses on those interactions: confusion, task abandonment, misplaced reliance, and difficulty recognizing when human help is needed.
 Through QuorLoop, I’m building infrastructure that connects scenario testing, agentic simulation, and community evaluation to product decisions—and helps teams test whether their changes improve the experience.
+
 ---
 ## Current Focus
 ### **QuorLoop — Evaluation for Consequential AI**
