@@ -2,7 +2,7 @@
   <img src="Github.png" alt="AI Infrastructure Expert Banner" />
 </p>
 
-#Hi, I’m Ariana (@ariscaga)
+# Hi, I’m Ariana (@ariscaga)
 
 **Founder of QuorLoop | Building human–AI evaluation infrastructure
 ---
