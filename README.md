@@ -4,7 +4,7 @@
 
 # Hi, I’m Ariana (@ariscaga)
 
-**Founder of QuorLoop | Building human–AI evaluation infrastructure
+**Founder of QuorLoop | Building human–AI evaluation infrastructure**
 ---
 
 Before people interact with your AI, include them first.
